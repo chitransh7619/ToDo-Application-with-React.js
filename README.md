@@ -36,3 +36,4 @@ This ToDo application is built using React.js and demonstrates core functionalit
 3. Run the application:
    ```bash
    npm start
+![Screenshot 2024-08-06 100913](https://github.com/user-attachments/assets/32d27a91-db68-4242-bd75-e4a7e3746a5b)
